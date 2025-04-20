@@ -60,7 +60,8 @@ UI Components: ShadCN UI, Lucide-React Icons
 
 👉 Clone the repository
 
-git clone https://github.com/your-username/mind-heal.git
+git clone https://github.com/Sivae2022/Mind-Heal.git
+
 cd mind-heal
 
 👉 Set up the backend
@@ -70,8 +71,8 @@ npm install
 
 Create a .env file in the backend folder and add:
 
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/mindheal
+PORT=yuor port
+MONGO_URI=mongodb:your mongo uri string 
 JWT_SECRET=your_jwt_secret
 
 npm start
